@@ -1,0 +1,10 @@
+{
+  "description": "Track and manage your internal purchases effortlessly with Finance Bro, featuring stylish receipts and seamless transaction updates in your local currency.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
